@@ -1,6 +1,7 @@
 Atividade Avaliativa I
 ================
-Rosenilda Pereira Barreto </br>
+Rosenilda Pereira Barreto, Tiago dos Santos Alves e Yago da Silva
+Menezes </br>
 Introdução a Estatistica 2020.1
 
 ------------------------------------------------------------------------
